@@ -23,4 +23,5 @@ Aqui você vai encontrar scripts e projetos voltados para:
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/-juan.fsj@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:juan.fsj@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-(21)%2099776--8464-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521997768464)
 [![GitHub](https://img.shields.io/badge/-hellboy89-181717?style=flat&logo=github&logoColor=white)](https://github.com/hellboy89)
