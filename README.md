@@ -20,6 +20,33 @@ Aqui você vai encontrar scripts e projetos voltados para:
 
 ---
 
+## 📡 Pulso do Repositório
+
+<div align="center">
+
+### ⚡ GitHub em Números
+
+<a href="https://github.com/hellboy89">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellboy89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellboy89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+</a>
+
+---
+
+### 🔥 Sequência de Contribuições
+
+<img src="https://streak-stats.demolab.com?user=hellboy89&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9"/>
+
+---
+
+### 📈 Gráfico de Atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hellboy89&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff"/>
+
+</div>
+
+---
+
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/-juan.fsj@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:juan.fsj@gmail.com)
